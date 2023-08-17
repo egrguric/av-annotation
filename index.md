@@ -32,3 +32,4 @@ Participants should have a GitHub account. To create a new one please follow the
 
 ## Resources
 * [AudiAnnotate](http://audiannotate.brumfieldlabs.com/])
+* [Internet Archive's Audio Archive](https://archive.org/details/audio)

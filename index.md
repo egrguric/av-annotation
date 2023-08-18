@@ -8,7 +8,7 @@ nav_order: 1
 
 # Annotating Audio Visual materials with AudiAnnotate
 
-This workshop will provide an introduction to AudiAnnotate, a free and open source tool for publishing and sharing annotations on audiovisual files. AudiAnnotate is built using minimal computing principles and the finished annotation files are all designed for longevity, a core challenge in the publication of digital scholarship outputs. This tool can be run locally when working with sensitive data but the version we use in this workshop is designed for non-sensitive data and is not FIPPA compliant. See example AudiAnnotate projects here: [http://audiannotate.brumfieldlabs.com/](http://audiannotate.brumfieldlabs.com/]).
+This workshop will provide an introduction to AudiAnnotate, a free and open source tool for publishing and sharing annotations on audiovisual files. AudiAnnotate is built using minimal computing principles and the finished annotation files are all designed for longevity, a core challenge in the publication of digital scholarship outputs. This tool can be run locally when working with sensitive data but the version we use in this workshop is designed for non-sensitive data and is not FIPPA compliant. See example AudiAnnotate projects here: [http://audiannotate.brumfieldlabs.com/](http://audiannotate.brumfieldlabs.com/).
 
 ## Learning objectives
 

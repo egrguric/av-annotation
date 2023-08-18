@@ -31,5 +31,7 @@ Participants should have a GitHub account. To create a new one please follow the
 | 1:30 | Wrap-up and Discussion |
 
 ## Resources
-* [AudiAnnotate](http://audiannotate.brumfieldlabs.com/])
+* [AudiAnnotate](http://audiannotate.brumfieldlabs.com/)
+* [AudiAnnotate documentation guide](https://hipstas.github.io/documentation/)
+* [AudiAnnotate annotation spreadsheet template](https://docs.google.com/spreadsheets/d/1KdGD0iGzwT4PL8k93ysexStsM-vM_BKTWhvDXJxQ8Pk/copy)
 * [Internet Archive's Audio Archive](https://archive.org/details/audio)
